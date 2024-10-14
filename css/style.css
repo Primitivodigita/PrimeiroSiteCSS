@@ -1,0 +1,78 @@
+/*=========================SESSÃO Tags=============================*/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'merriweather', serif;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    margin: 0 auto 0 auto;
+    font-weight: normal;
+    line-height: 2;
+}
+
+h2,
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: 70px;
+    text-align: center;
+}
+
+.hr {
+    border: dotted black 20px;
+    border-bottom: none;
+    width: 15px;
+    margin: 100px auto;
+
+}
+
+/*=========================SESSÃO Classes=============================*/
+
+.top-container {
+    background-color: #0B2F9F;
+    position: relative;
+    padding-top: 100px;
+}
+
+.profile {
+    text-align: center;
+}
+
+.texth1-n1 {
+    color: #7CF5FF;
+    font-size: 690.2%;
+}
+
+.texth1-n2 {
+    color: black;
+    font-size: 562.2%;
+    /* Corresponde a 16px */
+}
+
+.texth2-princi {
+    color: #7CF5FF;
+    font-size: 390.2%;
+}
+
+/*.image3 {
+    position: relative;
+    right: 1900px;
+    top: 1600px; (Apenas um teste)
+} */
+
+.bottom-container {
+    background-color: #0B2F9F;
+    position: relative;
+    padding-bottom: 100px;
+}
+
+.copywait {
+    color: #fff;
+    position: relative;
+    top: 100px;
+}
